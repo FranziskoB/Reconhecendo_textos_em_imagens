@@ -6,4 +6,4 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Visão computacional**
 | :label: Tecnologias | Python, 
-| :rocket:Lendo e salvando textos de imagens    | https://github.com/FranziskoB/Challenge-Data-Science-Alura-2ed/blob/main/Semana_1.ipynb
+| :rocket:Lendo e salvando textos de imagens    | https://github.com/FranziskoB/Visao_computacional/blob/main/Lendo_textos_de_imagens.ipynb
